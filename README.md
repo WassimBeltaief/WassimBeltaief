@@ -1,6 +1,6 @@
 # Hi, I'm Wassim 👋
 
-📍 <!-- Your city, Country --> Berlin, Germany &nbsp;|&nbsp; 🤖 Android Developer &nbsp;|&nbsp; ⚡ Kotlin & Jetpack Compose
+📍 Berlin, Germany &nbsp;|&nbsp; 🤖 Android Developer &nbsp;|&nbsp; ⚡ Kotlin & Jetpack Compose
 
 Android engineer obsessed with clean architecture, ADRs, and the kind of refactors that make the next developer's life meaningfully easier.
 Open source is how I think out loud.
@@ -22,7 +22,7 @@ Open source is how I think out loud.
 
 ---
 
-## What I'm currently investing time in
+## What I'm currently building
 
 - **Loupe** — Jetpack Compose zero-instrumentation, compiler-plugin-powered recomposition debugger.
 - **Android Jetpack Boilerplate** — a zero-compromise starting point so every new project ships architecture, not scaffolding.
@@ -37,13 +37,6 @@ Open source is how I think out loud.
 - [Medium](https://medium.com/@wassim_ltaief)
 - [Dev.to](https://dev.to/wassimbeltaief)
 - [Website blog](https://wassimbeltaief.com/blog)
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=WassimBeltaief&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WassimBeltaief&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
 
 ---
 
